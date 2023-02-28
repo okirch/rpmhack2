@@ -1,0 +1,5 @@
+rpmhack
+.gdbinit
+*.o
+*.a
+.*.swp
